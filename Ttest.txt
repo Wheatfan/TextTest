@@ -4,3 +4,4 @@ commit 3-2 branch2
 commit 4 branch2
 commit 3 branch1
 commit 5 branch1
+commit final
